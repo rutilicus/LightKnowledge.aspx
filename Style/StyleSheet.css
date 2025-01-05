@@ -1,0 +1,19 @@
+﻿header {
+    display: flex;
+    align-items: center;
+}
+
+.header-link {
+    display: flex;
+    list-style-type: none;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.header-link > li {
+    padding: 0.5em 1em;
+}
+
+.hidden {
+    display: none;
+}
